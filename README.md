@@ -9,7 +9,7 @@ Welcome to the **Advanced Math Quiz Game** — a fun and interactive command-lin
   - Intermediate (5 ≤ Score < 10)
   - Advanced (10 ≤ Score < 20)
   - Math Wizard (Score ≥ 20)
-- ⏱ Timed questions (10 seconds per question)
+-  Timed questions (10 seconds per question)
 - ➕➖✖️➗ Arithmetic operations and more:
   - Addition, Subtraction, Multiplication
   - Integer Division, Modulus
@@ -25,7 +25,7 @@ Welcome to the **Advanced Math Quiz Game** — a fun and interactive command-lin
 - Unix/Linux shell environment
 - Bash (v4.0 or above)
 
-## ▶ How to Run
+##  How to Run
 
 1. Open your terminal.
 2. Give execute permission to the script:
